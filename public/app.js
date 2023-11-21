@@ -17,7 +17,7 @@ form.addEventListener("submit",(e) => {
     if(email === ""){
         emailError.innerHTML="veuillez entrez l'adresse email";
     }
-    
+    // exercice recolte de la temperature en faerneint affichage en degre celsus
     if(password === ""){
         passwordError.innerHTML="veuillez entrez le mot de passe";
     }    

@@ -1,0 +1,11 @@
+﻿
+const : declare une variable une seul fois et non afactable
+
+document.queryselector : recupere la valeur d'une ID ou la premier <p> ou la premier classe
+
+<mesurError>.innerHTML : affecté une ID ou une classe
+
+<form>.addEventListener : recupere une evennement (exp. click / bouton submit)
+
+<e>.preventDefault() : cancel evenemt
+
